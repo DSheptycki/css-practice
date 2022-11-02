@@ -1,0 +1,36 @@
+body {
+  color: rgb(230, 189, 113);
+  background-color: white;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+p {
+  font-size: 24px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+a {
+  padding: 24;
+}
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: white;
+}
